@@ -101,6 +101,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | can | denotes both capability and possibility | https://www.gov.uk/government/publications/orange-book | Formal term from UK Government Orange Book: Management of Risk - Principles and Concepts. |
 | CARAT | Counselling, Assessment, Referral, Advice, Throughcare | | CARAT workers are intermediaries between drug treatments providers and the prisoners themselves |
 | CAS | Case Allocation System | | Used after sentencing to assign offender as NPS or CRC |
+| CAS | Community Accomedation Services | | |
 | CATS | Case Assessment and Tracking System | https://www.CreatingFutureOpportunities.gov.uk | .NET application written and used by CFO at Daresbury Park in Warrington for managing externally funded (historically ESF) programmes |
 | CBO | crime billing online | | |
 | CCBC | County Court Bulk Centre | http://www.justice.gov.uk/courts/northampton-bulk-centre/ccbc | Set up by HM Courts & Tribunals Service specifically to deal with straightforward debt collection work which, in the main, is undefended. In Northampton. |
@@ -175,6 +176,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | CRO | criminal records office | | unique number once convicted (police) |
 | CRP | Conference Room Pilot | | |
 | CRS | Commissioned Rehabilitative Services | https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/959745/HMPPS_-_The_Target_Operating_Model_for_the_Future_of_Probation_Services_in_England___Wales_-__English__-_09-02-2021.pdf#page=79 | Rehabilitation and resettlement interventions  procured through the Dynamic Framework - the mechanism to procure rehabilitation and resettlement interventions in regional areas |
+| CRU | Central Referral Unit | | |
 | CSC | Close Supervision Centre | | Also known as Segregation unit, Seg, Solitary Confinement & SCU |
 | CSG | Corporate Services Group | | Part of MOJ led by director general Matthew Coats which includes Estates, ICT, HR, Shared Services and Digital Services. |
 | CSIP | Challenge Support Intervention Plan | | |
