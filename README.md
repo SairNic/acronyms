@@ -60,6 +60,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | AP | Approved Premises | | |
 | APD | Approved Parole Date |  |  |
 | API | Application Programming Interface | | |
+| APM | Approved Premises Manager | | |
 | APPG | All Party Parliamentary Group | http://www.parliament.uk/about/mps-and-lords/members/apg/ | APPGs are informal cross-party groups that have no official status within Parliament. They are run by and for Members of the Commons and Lords, though many choose to involve individuals and organisations from outside Parliament in their administration and activities. |
 | APVS | Assisted Prison Visit Scheme | https://www.gov.uk/help-with-prison-visits | Also known as HWPV (Help With Prison Visits) |
 | APVU | Assisted Prison Visits Unit | | A call centre for prison visits for 8 prisons in the west midlands. |
