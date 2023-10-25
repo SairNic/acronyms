@@ -322,6 +322,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | HOIT | Home Office IT | | |
 | HOMD | Head of Offender Management Delivery | | An individual who can assign POMs to offenders |
 | HPA | Historic Prisoner Application | | When IIS (Inmate Information System - the precursor to Prison-NOMIS) was decommissioned, the data was archived into HPA |
+| HRA | Housing Risk Assessment | | |
 | HSE | high security estate  prison use | | |
 | HSE | High Security Estate | | The highest level of prison, eg Belmarsh.Could also be Health and Safety Executive, so avoid acronym. |
 | HTA | Hierarchical Task Analysis | | |
