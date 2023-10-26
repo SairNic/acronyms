@@ -239,6 +239,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DSO | Digital Studio Operations | | Slack Channel - #ask-digital-studio-ops |
 | DSS | Data Security Standard | https://www.pcisecuritystandards.org | An accreditation for handling credit/debit cards managed by Payment Card Industry (PCI). |
 | DTO | Detention Training Order |  |  |
+| DTR | Duty to Refer |  |  |
 | DTRG | Digital Technology Review Group | | |
 | DV | Developed Vetting | https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels#developed-vetting-dv | Level of Security Clearance |
 | DV | Domestic Violence | | |
