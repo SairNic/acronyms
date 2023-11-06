@@ -712,6 +712,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SID | Self Inflicted Death | | |
 | SIG | Service Integration Group | | |
 | SIM | Service Incident and Management | | |
+| SIN | Serious Incident Nofitication | | |
 | SIR (Now superseded by IR) | Security Information Report | | Prison.  A previous method of reporting intelligence information to the Security department via paper.  Now superseded by IR (Intelligence Report) generally submitted electronically via the Mercury system |
 | SIRB | Security Information Risk Board | | |
 | SIRO | Senior Information Risk Owner | | |
