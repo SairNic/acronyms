@@ -268,6 +268,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | ERS | Early Removal Scheme |  |  |
 | ERSED | Early Removal Scheme Eligibility Date |  |  |
 | ESA | Employment and Support Allowance | https://www.gov.uk/employment-support-allowance | You can apply for Employment and Support Allowance (ESA) if you have a disability or health condition that affects how much you can work. |
+| ESAP | Enhanced Security Approved Premises |  |  |
 | ESED | Effective Sentence End Date | | | 
 | ESF | European Social Fund | https://en.wikipedia.org/wiki/European_Social_Fund | Provides funding via the CFO to provide additional services to offenders |
 | ESL | Effective Sentence Length | | Representation of sentence length as a single period term | 
